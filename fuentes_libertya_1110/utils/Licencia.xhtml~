@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 sp2 U (http://www.altova.com) by berto (inforHouse) -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		
+		<title>Licencia Pública openXpertya - LPO 1.1</title>
+		
+		<meta name="generator" content="StarOffice/OpenOffice.org XSLT (http://xml.openoffice.org/sx2ml)" />
+		<meta name="author" content="Depto. Legal grupo inforHouse" />
+		<meta name="created" content="2005-10-24T20:05:00" />
+		<meta name="changed" content="2006-03-30T00:19:36" />
+		<meta name="subject" content="LPO versión 1.1" />
+		<meta name="keywords" content="openXpertya, LPO, Licencia" />
+		<base href="." />
+		
+		<style type="text/css">
+			body 				{ font-family: Georgia, "Times New Roman", Times, serif; font-size: 12px; }
+			h1 					{ font-size: 24px; }
+			h2 					{ font-size: 18px; color: #993300; padding-top: 25px; }
+			h3 					{ font-size: 14px; font-weight: normal; text-decoration: underline; padding-top: 15px; color: #555555; }
+			ol 					{ list-style-type: lower-alpha; }
+			blockquote 			{ margin: 15px; }
+			a:link, a:visited 	{ text-decoration: none; color: #555555; }
+			a:hover 			{ text-decoration: none; color: #993300; }
+		</style>
+	</head>
+
+<BODY>
+<H1><A NAME="inicio"></A>LICENCIA P&Uacute;BLICA DE <STRONG>LIBERTYA</STRONG>
+(<STRONG>LPLY</STRONG>) Versi&oacute;n 1.0</H1>
+<H3 CLASS="western">0. PR&Oacute;LOGO</H3>
+<BLOCKQUOTE STYLE="text-align: justify">La <STRONG>Licencia P&uacute;blica
+de Libertya (LPLY)</STRONG> est&aacute; derivada literalmente de la
+traducci&oacute;n al espa&ntilde;ol de la licencia p&uacute;blica
+<STRONG>CDDL</STRONG>, aprobada por la <STRONG>OSI (<EM>Open Source
+Iniciative</EM>)</STRONG> el 14 de Enero del 2.005 (lo que la
+convierte en una de las licencias de software libre m&aacute;s
+modernas) derivada a su vez de la licencia p&uacute;blica <STRONG>MPL
+1.1</STRONG>. 
+</BLOCKQUOTE>
+<H2 CLASS="western">1. DEFINICIONES</H2>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+1.1 &quot;COLABORADOR&quot;</H3>
+<BLOCKQUOTE>Se entiende por colaborador a todo individuo o entidad
+que crea o contribuye a la creaci&oacute;n de modificaciones.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+1.2. &quot;VERSI&Oacute;N DEL COLABORADOR&quot;</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Se entiende por versi&oacute;n
+del colaborador la combinaci&oacute;n del software original,
+modificaciones previas usadas por un colaborador (si las hubiera), y
+las modificaciones hechas por ese colaborador en concreto.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+1.3. &quot;C&Oacute;DIGO AMPARADO&quot;</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Se entiende por c&oacute;digo
+amparado el:</BLOCKQUOTE>
+<OL>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">software original o</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">las modificaciones
+	realizadas en el mismo o</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">la combinaci&oacute;n de
+	archivos que contienen software original y archivos que contienen
+	modificaciones, en cada caso incluyendo sus partes correspondientes.</BLOCKQUOTE>
+</OL>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+1.4 &quot;EJECUTABLE&quot;</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Se entiende por ejecutable el
+c&oacute;digo amparado en cualquier forma distinta de c&oacute;digo
+fuente.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+1.5. &quot;DESARROLLADOR INICIAL&quot;</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Se entiende por desarrollador
+inicial al individuo o entidad que ofrece en primera instancia el
+software original a disposici&oacute;n del p&uacute;blico bajo esta
+licencia.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+1.6. &quot;PRODUCTO EXTENDIDO&quot;</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Se entiende por producto
+extendido un trabajo que combina c&oacute;digo amparado o partes
+correspondientes al mismo con c&oacute;digo no regido por los
+t&eacute;rminos de esta licencia.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+1.7. &quot;LICENCIA&quot;</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Se entiende por licencia el
+presente documento.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+1.8 &quot;LICENCIABLE&quot;</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Se entiende por licenciable
+todo aquel c&oacute;digo del que se ostenta el derecho a garantizar,
+en la m&aacute;xima medida posible, bien en el momento de la garant&iacute;a
+inicial o mediante adquisici&oacute;n subsiguiente, todos y cada uno
+de los derechos garantizados por la presente.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+1.9. &quot;MODIFICACIONES&quot;</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Se entienden por
+modificaciones el c&oacute;digo fuente y la versi&oacute;n ejecutable
+de cualquiera de los siguientes:</BLOCKQUOTE>
+<OL>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">Cualquier archivo que
+	resulte de la adici&oacute;n, borrado, o modificaci&oacute;n de los
+	contenidos de un archivo que contuviera software original o
+	modificaciones previas.</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">Cualquier nuevo archivo
+	que contenga cualquier parte del software original o modificaciones
+	previas o;</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">Cualquier archivo nuevo
+	con el que se haya contribuido o que de cualquier otra manera se
+	haya puesto a disposici&oacute;n del p&uacute;blico bajo los
+	t&eacute;rminos de esta licencia.</BLOCKQUOTE>
+</OL>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+1.10 &quot;SOFTWARE ORIGINAL&quot;</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Se entiende por software
+original, tanto el c&oacute;digo fuente como su forma ejecutable que
+se publican originalmente bajo esta licencia.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+1.11 &quot;RECLAMACIONES DE DERECHOS DE PATENTE&quot;</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Se entiende por reclamaciones
+de derechos de patente, &nbsp;aquellas reclamaciones por derechos de
+patente detentados ahora o adquiridos a posteriori, incluyendo, sin
+l&iacute;mite, reclamaciones por derechos de patente de m&eacute;todo,
+derechos de patente de proceso y derechos de patente de aparato,
+sobre cualquier &nbsp;patente licenciable por el garante.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+1.12 &quot;C&Oacute;DIGO FUENTE&quot;</H3>
+<BLOCKQUOTE STYLE="text-align: justify">&nbsp;Se entiende por c&oacute;digo
+fuente, ambos dos:</BLOCKQUOTE>
+<OL>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">la forma com&uacute;n
+	del c&oacute;digo de software inform&aacute;tico en la cual se
+	realizan modificaciones y 
+	</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">la documentaci&oacute;n
+	asociada incluida en o con dicho c&oacute;digo originalmente. 
+	</BLOCKQUOTE>
+</OL>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+1.13 &quot;USTED&quot; (O &quot;SU&quot;, &quot;SUS&quot;)</H3>
+<BLOCKQUOTE>Se&ntilde;ala a un individuo o entidad legal que ejerce
+sus derechos, bajo, y &nbsp;siempre cumpliendo con todos sus t&eacute;rminos
+de esta licencia. Para las entidades legales &quot;usted&quot;
+incluye cualquier entidad que controla o esta controlada, o est&aacute;
+bajo control com&uacute;n de dicha entidad legal referenciada como
+&quot;usted&quot;. Para los prop&oacute;sitos de esta definici&oacute;n,
+&quot;control&quot; se entiende por:</BLOCKQUOTE>
+<OL>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">la capacidad, directa o
+	indirecta, de regir la direcci&oacute;n o gesti&oacute;n de dicha
+	entidad, tanto medio contrato como de cualquier otra manera, o 
+	</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">la propiedad de mas del
+	&nbsp;cincuenta por ciento (50%) de las acciones actuales,
+	participaciones, o la propiedad de plusval&iacute;as de dicha
+	entidad.</BLOCKQUOTE>
+</OL>
+<H2 CLASS="western">2. GARANT&Iacute;AS DE LA LICENCIA</H2>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+2.1 GARANT&Iacute;A DEL DESARROLLADOR INICIAL</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Condicionado al cumplimiento
+de la secci&oacute;n <STRONG>3.1</STRONG> posterior, y sujeta a las
+reclamaciones de propiedad intelectual de terceros, el desarrollador
+inicial por la presente le garantiza una licencia, mundial, libre de
+cargas y no exclusiva:</BLOCKQUOTE>
+<OL>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">bajo los derechos de
+	propiedad intelectual (distintos de los de patente o de marca
+	registrada) licenciable por el desarrollador inicial &nbsp;para
+	usar, reproducir, mostrar, ejecutar, relicenciar y distribuir el
+	software original (o partes correspondientes al mismo) con o sin
+	modificaciones, y/o como parte de un producto extendido; y</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">bajo reclamaciones de
+	derechos de patentes infringidas por la creaci&oacute;n, uso o venta
+	del software original, para crear, haber creado, usar, practicar,
+	vender, y ofrecer para la venta y/o disponer de cualquier otra
+	manera del software original (o partes correspondientes al mismo).</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">las licencias
+	garantizadas en esta secci&oacute;n <STRONG>2.1 (a)</STRONG> y <STRONG>(b)</STRONG>
+	son efectivas desde la fecha que el desarrollador inicial distribuya
+	inicialmente o de cualquier otra manera haga disponible a terceros
+	el c&oacute;digo original bajo los t&eacute;rminos de esta licencia.</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">no obstante lo
+	establecido en la secci&oacute;n <STRONG>2.1 (b)</STRONG>, no se
+	garantiza licencia expresa:</BLOCKQUOTE>
+	<UL>
+		<LI><BLOCKQUOTE STYLE="text-align: justify">para el c&oacute;digo
+		que usted borre del c&oacute;digo original; &nbsp;o</BLOCKQUOTE>
+		<LI><BLOCKQUOTE STYLE="text-align: justify">para el c&oacute;digo
+		que usted &nbsp;separe del c&oacute;digo original;&nbsp; o 
+		</BLOCKQUOTE>
+		<LI><BLOCKQUOTE STYLE="text-align: justify">por infracciones
+		causadas por:&nbsp;</BLOCKQUOTE>
+		<UL>
+			<LI><BLOCKQUOTE STYLE="text-align: justify">la modificaci&oacute;n
+			del c&oacute;digo original, &nbsp;o 
+			</BLOCKQUOTE>
+			<LI><BLOCKQUOTE STYLE="text-align: justify">la combinaci&oacute;n
+			del c&oacute;digo original con otro software o dispositivos
+			cualesquiera.</BLOCKQUOTE>
+		</UL>
+	</UL>
+</OL>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+2.2 GARANT&Iacute;A DEL COLABORADOR</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Condicionado al cumplimiento
+de la secci&oacute;n <STRONG>3.1</STRONG> posterior, y sujeta a las
+reclamaciones de propiedad intelectual de terceros, cada colaborador
+por la presente le garantiza una licencia, mundial, libre de cargas y
+no exclusiva:</BLOCKQUOTE>
+<OL>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">bajo los derechos de
+	propiedad intelectual (distintos de patente o marca registrada)
+	licenciable por colaborador para usar, reproducir, modificar,
+	mostrar, ejecutar, relicenciar y distribuir las modificaciones
+	realizadas por dicho colaborador (o partes correspondientes) bien en
+	su estado original, con otras modificaciones, como software
+	amparado, &nbsp;y/o como parte de un producto extendido; y</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">bajo reclamaciones de
+	derechos de patentes infringidas por la creaci&oacute;n, uso o venta
+	de las modificaciones realizadas por dicho colaborador bien por
+	separado y/o en combinaci&oacute;n con su versi&oacute;n del
+	colaborador (o partes de dicha combinaci&oacute;n), para crear,
+	usar, vender, &nbsp;ofrecer para la venta, haber creado y/o disponer
+	de cualquier otra &nbsp;manera de:</BLOCKQUOTE>
+	<UL>
+		<LI><BLOCKQUOTE STYLE="text-align: justify">modificaciones hechas
+		por ese colaborador &nbsp;(o partes correspondientes a la misma); o</BLOCKQUOTE>
+		<LI><BLOCKQUOTE STYLE="text-align: justify">la combinaci&oacute;n
+		de&nbsp; modificaciones hechas por ese colaborador con su versi&oacute;n
+		de colaborador (o partes de dicha combinaci&oacute;n). 
+		</BLOCKQUOTE>
+	</UL>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">las licencias
+	garantizadas en las secciones <STRONG>2.2(a)</STRONG> y <STRONG>2.2
+	(b)</STRONG> son efectivas en la fecha en que el colaborador
+	distribuya inicialmente o ponga de cualquier otra manera las
+	modificaciones a disposici&oacute;n de un tercero.</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">no obstante lo
+	establecido en &nbsp;la secci&oacute;n <STRONG>2.2(b)</STRONG>, no
+	se garantiza licencia patente:</BLOCKQUOTE>
+	<UL>
+		<LI><BLOCKQUOTE STYLE="text-align: justify">por cualquier c&oacute;digo
+		que el colaborador haya borrado de la versi&oacute;n del
+		colaborador;</BLOCKQUOTE>
+		<LI><BLOCKQUOTE STYLE="text-align: justify">por infracciones
+		causadas por:</BLOCKQUOTE>
+		<UL>
+			<LI><BLOCKQUOTE STYLE="text-align: justify">modificaciones de
+			terceros de la versi&oacute;n del colaborador o</BLOCKQUOTE>
+			<LI><BLOCKQUOTE STYLE="text-align: justify">la combinaci&oacute;n
+			de modificaciones hechas por dicho colaborador con otro software&nbsp;
+			(excepto como parte de la versi&oacute;n del colaborador) o otros
+			aparatos; o</BLOCKQUOTE>
+		</UL>
+		<LI><BLOCKQUOTE STYLE="text-align: justify">bajo reclamaciones de
+		derechos de patente infringidas por el c&oacute;digo amparado en
+		ausencia de modificaciones hechas por este colaborador. 
+		</BLOCKQUOTE>
+	</UL>
+</OL>
+<H2 CLASS="western">3. OBLIGACIONES DE DISTRIBUCI&Oacute;N</H2>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+3.1. DISPONIBILIDAD DEL C&Oacute;DIGO FUENTE.</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Cualquier c&oacute;digo
+amparado que usted distribuya o haga accesible de cualquier otra
+manera en forma ejecutable, debe de hacerse tambi&eacute;n accesible
+en forma de c&oacute;digo fuente y dicho c&oacute;digo fuente debe
+distribuirse s&oacute;lo bajo los t&eacute;rminos de esta licencia.
+Usted est&aacute; obligado a incluir una copia de esta licencia con
+todas y cada una de las copias de la forma de c&oacute;digo fuente
+del c&oacute;digo amparado que usted distribuya o ponga a disposici&oacute;n
+del p&uacute;blico de cualquier otra manera. 
+</BLOCKQUOTE>
+<BLOCKQUOTE STYLE="text-align: justify">Adicionalmente, usted debe
+informar a los destinatarios de dicho c&oacute;digo amparado en forma
+ejecutable sobre la manera o forma de obtener la forma de c&oacute;digo
+fuente de dicho c&oacute;digo amparado de una manera razonable o
+mediante un medio tradicionalmente establecido o est&aacute;ndar para
+el intercambio de software.&nbsp;</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+3.2. MODIFICACIONES</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Las modificaciones que usted
+cree, o con las que usted contribuya est&aacute;n regidas bajo los
+t&eacute;rminos de esta licencia. Usted afirma de buena fe que
+considera que sus modificaciones son sus creaciones originales y/o
+que usted ostenta derechos suficientes para garantizar los derechos
+contenidos y detallados en esta licencia.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+3.3. AVISOS REQUERIDOS</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Usted debe incluir un aviso o
+nota en cada una de sus modificaciones de tal manera que le
+identifique a usted como el colaborador de esa modificaci&oacute;n.
+Usted no debe eliminar o alterar ning&uacute;n copyright o aviso de
+patente o marca registrada que este contenida en el software
+amparado, o cualquier aviso de licenciamiento o texto descriptivo de
+alguna clase que establezca atribuciones o derechos de cualquier tipo
+de cualquier otro colaborador o del propio desarrollador inicial. 
+</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+3.4 APLICACION DE T&Eacute;RMINOS ADICIONALES</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Usted no debe ofrecer o
+imponer ninguna clase de t&eacute;rminos a cualquier c&oacute;digo
+amparado en forma de c&oacute;digo fuente, que altere o restrinja la
+versi&oacute;n aplicable de los t&eacute;rminos de esta licencia o
+los derechos subsiguientes de los destinatarios. Usted puede,
+leg&iacute;timamente, elegir ofrecer, y cobrar una cantidad por
+garant&iacute;a, soporte, indemnizaci&oacute;n u obligaciones de
+responsabilidad a uno o m&aacute;s destinatarios del software
+amparado. Sin embargo, usted puede hacer esto s&oacute;lo en su
+propio nombre y s&oacute;lo bajo &nbsp;su propia responsabilidad,
+nunca en nombre del desarrollador inicial &nbsp;o de cualquiera de
+los colaboradores. Usted est&aacute; obligado a especificar con total
+claridad que cualquiera de las mencionadas garant&iacute;a, soporte,
+indemnizaci&oacute;n u obligaciones de responsabilidad, es ofrecida
+solamente por usted, y por la presente acepta indemnizar al
+desarrollador inicial &nbsp;y a todos y cada uno de los colaboradores
+por cualquier responsabilidad en la que incurran o pudieran incurrir
+en el futuro, el desarrollador inicial &nbsp;o cualquiera de dichos
+colaboradores a resultas de los t&eacute;rminos cualesquiera de
+garant&iacute;a, soporte, indemnizaci&oacute;n o responsabilidad que
+usted ofrezca &nbsp;unilateralmente.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+3.5. DISTRIBUCI&Oacute;N DE VERSIONES EJECUTABLES</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Usted puede distribuir c&oacute;digo
+amparado en forma ejecutable bajo los t&eacute;rminos de esta
+licencia o bajo los t&eacute;rminos de una licencia cualquiera de su
+elecci&oacute;n, la cual puede contener t&eacute;rminos diferentes a
+los de esta licencia, en tanto en cuanto usted cumpla los t&eacute;rminos
+de esta licencia y que la licencia para la forma ejecutable no
+intente limitar o alterar los derechos de los destinatarios &nbsp;para
+la forma de c&oacute;digo fuente, de los t&eacute;rminos ofrecidos en
+esta licencia. Si usted distribuye c&oacute;digo amparado en forma
+ejecutable bajo una licencia diferente, usted debe establecer con
+total claridad que cualquiera de los t&eacute;rminos que difieran con
+los de esta licencia solo se ofrece por usted y bajo su
+responsabilidad, no por el desarrollador inicial &nbsp;u otro
+colaborador. Usted &nbsp;por la presente acepta indemnizar al
+desarrollador inicial &nbsp;y a todos y cada uno de los colaboradores
+por cualquier responsabilidad en la que incurran el desarrollador
+inicial &nbsp;o cualquiera de dichos colaboradores a resultas de los
+t&eacute;rminos que usted ofrezca.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+3.6. PRODUCTO EXTENDIDO</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Usted puede crear un producto
+extendido combinando c&oacute;digo amparado con c&oacute;digo
+adicional no regido por los t&eacute;rminos de esta licencia y
+distribuir el producto extendido como un &uacute;nico producto. En
+este caso, debe usted asegurarse que los requisitos de &eacute;sta
+licencia se cumplen para el c&oacute;digo amparado.</BLOCKQUOTE>
+<H2 CLASS="western">4. VERSIONES DE LA LICENCIA</H2>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+4.1. NUEVAS VERSIONES Y CUSTODIO INICIAL</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Servicios Digitales S.A. es
+el custodio inicial de esta licencia y puede publicar versiones
+revisadas y/o nuevas de la licencia <STRONG>LPLY</STRONG> cada cierto
+tiempo. Cada versi&oacute;n llevar&aacute; asignada un n&uacute;mero
+o c&oacute;digo un&iacute;voco de identificaci&oacute;n de versi&oacute;n.
+Excepto en lo establecido en la secci&oacute;n <STRONG>4.3</STRONG>,
+nadie excepto el custodio original tiene el derecho a modificar esta
+licencia. 
+</BLOCKQUOTE>
+<BLOCKQUOTE STYLE="text-align: justify">El custodio original podr&aacute;,
+si as&iacute; lo considera, transferir la custodia de esta licencia y
+todos los derechos asociados a ella, a otra organizaci&oacute;n sin
+&aacute;nimo de lucro, que pueda cuidar, promocionar o mantener el
+uso de la misma y de su software asociado.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+4.2 EFECTO DE LAS NUEVAS VERSIONES</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Usted siempre puede continuar
+usando, distribuyendo o poniendo a disposici&oacute;n del p&uacute;blico
+de cualquier otra manera el c&oacute;digo amparado, bajo los t&eacute;rminos
+de la versi&oacute;n de la licencia bajo los cuales usted recibi&oacute;
+originalmente el c&oacute;digo amparado. Si el desarrollador inicial
+incluyese por cualquier causa un aviso en el software original
+prohibiendo que &eacute;ste se distribuya o sea puesto a disposici&oacute;n
+del p&uacute;blico de cualquier otra manera bajo ninguna versi&oacute;n
+subsiguiente de la licencia, usted debe distribuir y poner el c&oacute;digo
+amparado a disposici&oacute;n del publico bajo los t&eacute;rminos de
+la versi&oacute;n bajo la cual usted recibi&oacute; originalmente el
+c&oacute;digo amparado. En cualquier otro caso, usted puede tambi&eacute;n
+elegir usar, distribuir o poner a disposici&oacute;n del p&uacute;blico
+de, cualquier otra manera, el c&oacute;digo amparado bajo los
+t&eacute;rminos de cualquier versi&oacute;n subsiguiente de la
+licencia publicada por el custodio inicial de la licencia.</BLOCKQUOTE>
+<H3 CLASS="western" STYLE="margin-left: 0.16in; margin-right: 0.16in; margin-top: 0.16in; margin-bottom: 0.16in">
+4.3. VERSIONES MODIFICADAS</H3>
+<BLOCKQUOTE STYLE="text-align: justify">Cuando usted sea el
+desarrollador inicial de un producto nuevo o de un producto
+extendido, y usted quiera crear una nueva licencia para su software
+original, usted puede crear y utilizar una versi&oacute;n modificada
+de esta licencia si usted:</BLOCKQUOTE>
+<OL>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">renombra la licencia y
+	elimina cualquier referencia al nombre del custodio de la licencia
+	(excepto para se&ntilde;alar que la licencia difiere de la presente
+	licencia) &nbsp; y 
+	</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">hacer patente de
+	cualquier otra manera que la licencia contiene t&eacute;rminos que
+	difieren de los de la presente licencia, y&nbsp;</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify">respeta todos y cada uno
+	de los t&eacute;rminos actualmente existentes en esta licencia si se
+	trata de un producto extendido basado en el software original
+	<STRONG>Libertya</STRONG>.</BLOCKQUOTE>
+</OL>
+<H2 CLASS="western">5. AUSENCIA DE GARANT&Iacute;A</H2>
+<BLOCKQUOTE STYLE="text-align: justify">EL C&Oacute;DIGO AMPARADO SE
+OFRECE BAJO ESTA LICENCIA <STRONG>&quot;TAL CUAL&quot;</STRONG>, SIN
+GARANT&Iacute;A DE NINGUNA CLASE, NI EXPRESA NI IMPL&Iacute;CITA,
+INCLUYENDO, SIN LIMITACI&Oacute;N, GARANT&Iacute;AS DE QUE EL C&Oacute;DIGO
+AMPARADO EST&Aacute; LIBRE DE FALLOS, ES SUSCEPTIBLE DE SER VENDIDO,
+ESTA DISE&Ntilde;ADO PARA UN PROP&Oacute;SITO CONCRETO O LIBRE DE
+INFRACCIONES. CUALQUIER TIPO DE RIESGO SOBRE LA CALIDAD Y EL
+FUNCIONAMIENTO DEL C&Oacute;DIGO AMPARADO ES ASUMIDO &Uacute;NICAMENTE
+POR USTED. EN CASO DE QUE EL C&Oacute;DIGO AMPARADO PUDIERA SER
+DEFECTUOSO EN CUALQUIER EXTREMO, USTED (Y NUNCA EL DESARROLLADOR
+INICIAL O CUALQUIER OTRO COLABORADOR) ASUMIR&Aacute; EL COSTE DE
+CUALQUIER SERVICIO NECESARIO, REPARACI&Oacute;N O CORRECCI&Oacute;N.
+<STRONG>ESTE AVISO DE AUSENCIA DE GARANT&Iacute;A CONSTITUYE UNA
+PARTE ESENCIAL DE ESTA LICENCIA. NO SE PERMITE NING&Uacute;N TIPO DE
+USO DEL C&Oacute;DIGO AMPARADO EN LO SUCESIVO SI NO ES BAJO ESTE
+AVISO</STRONG>.</BLOCKQUOTE>
+<H2 CLASS="western">6. TERMINACI&Oacute;N</H2>
+<BLOCKQUOTE STYLE="text-align: justify"><STRONG>6.1.</STRONG> Esta
+licencia y los derechos garantizados por la misma terminar&aacute;n
+autom&aacute;ticamente si usted no cumple los t&eacute;rminos de esta
+licencia o no pasa a cumplirlos treinta d&iacute;as despu&eacute;s de
+comprobar la falta de cumplimiento de la misma. Aquellas
+disposiciones que por su naturaleza deban permanecer efectivas tras
+la terminaci&oacute;n de la licencia seguir&aacute;n en vigor tras la
+terminaci&oacute;n.</BLOCKQUOTE>
+<BLOCKQUOTE STYLE="text-align: justify"><STRONG>6.2.</STRONG> Si
+realiza una reclamaci&oacute;n por infracci&oacute;n de patente
+(excluyendo acciones de declaraci&oacute;n judicial, que legalmente
+siguen otra v&iacute;a) contra el desarrollador inicial&nbsp;o un
+colaborador ( se denominar&aacute; &quot;participante&quot; a aquel
+desarrollador inicial o colaborador al que usted dirija dicha
+reclamaci&oacute;n) alegando que el software del participante
+(entendiendo por software del participante la versi&oacute;n del
+colaborador donde el participante es un colaborador o el software
+original, donde el participante es el desarrollador inicial)
+directamente o &nbsp;indirectamente infringe cualquier patente,
+entonces todos y cada uno de los derechos garantizados directa o
+indirectamente a usted por dicho participante, desarrollador inicial
+(si el desarrollador inicial&nbsp;no es el participante) y todos los
+colaboradores en las secciones 2.1 y/o 2.2 de esta licencia se
+terminar&aacute;n prospectiva y autom&aacute;ticamente tras 60 d&iacute;as
+desde el aviso del participante, a menos que tras ese periodo de 60
+d&iacute;as usted retire su reclamaci&oacute;n con respecto al
+software del participante contra dicho participante bien de manera
+unilateral o tras llegar a acuerdo escrito con el participante.</BLOCKQUOTE>
+<BLOCKQUOTE STYLE="text-align: justify"><STRONG>6.3.</STRONG> En el
+caso de terminaci&oacute;n bajo las secciones <STRONG>6.1</STRONG> &oacute;
+<STRONG>6.2.</STRONG>,&nbsp; todas las licencias de usuario final que
+hayan sido debidamente garantizadas por usted o cualquier
+distribuidor, con car&aacute;cter previo a la terminaci&oacute;n
+(excluyendo las licencias garantizadas a usted por cualquier
+distribuidor) seguir&aacute;n en vigor tras la terminaci&oacute;n.</BLOCKQUOTE>
+<H2 CLASS="western">7. LIMITACI&Oacute;N DE RESPONSABILIDAD</H2>
+<BLOCKQUOTE STYLE="text-align: justify"><STRONG>EN NING&Uacute;N
+CASO, Y BAJO NINGUNA TEOR&Iacute;A LEGAL, BIEN POR AGRAVIO,
+(INCLUYENDO NEGLIGENCIA), CONTRATO, O CUALQUIER OTRA FORMA, USTED, EL
+DESARROLLADOR INICIAL, &nbsp;CUALQUIER OTRO COLABORADOR, O CUALQUIER
+DISTRIBUIDOR DEL C&Oacute;DIGO AMPARADO, O CUALQUIER PROVEEDOR O
+CUALQUIERA DE DICHAS PARTES, SER&Aacute; RESPONSABLE ANTE NING&Uacute;N
+SUJETO POR NING&Uacute;N TIPO DE DA&Ntilde;O INDIRECTO, ESPECIAL,
+INCIDENTAL O DERIVADO DE NINGUNA CLASE, INCLUYENDO, SIN LIMITACI&Oacute;N,
+&nbsp;DA&Ntilde;OS POR PERDIDA DE BENEFICIOS, P&Eacute;RDIDAS DE
+FONDO DE COMERCIO, PARO DE LA ACTIVIDAD, FALLO O MALFUNCIONAMIENTO DE
+DISPOSITIVOS O APARATOS, Y TODOS Y CADA UNO DE LOS DA&Ntilde;OS O
+P&Eacute;RDIDAS COMERCIALES, INCLUSO SI DICHA PARTE HA SIDO INFORMADA
+DE LA POSIBILIDAD DE DICHOS DA&Ntilde;OS.</STRONG> ESTA LIMITACI&Oacute;N
+DE RESPONSABILIDAD NO SE APLICAR&Aacute; A LA RESPONSABILIDAD POR
+FALLECIMIENTO O DA&Ntilde;O PERSONAL RESULTANTE DE LA NEGLIGENCIA DE
+DICHA PARTE EN CUANTO LA LEY APLICABLE PROH&Iacute;BA DICHA
+LIMITACI&Oacute;N.</BLOCKQUOTE>
+<BLOCKQUOTE STYLE="text-align: justify">ALGUNAS REGULACIONES LEGALES
+NO PERMITEN LA EXCLUSI&Oacute;N O LIMITACI&Oacute;N DE CIERTOS DA&Ntilde;OS
+INCIDENTALES O DERIVADOS, POR LO TANTO ESTA EXCLUSI&Oacute;N Y
+LIMITACI&Oacute;N PUEDE NO APLICARSELE A USTED.</BLOCKQUOTE>
+<H2 CLASS="western">8. VARIOS</H2>
+<BLOCKQUOTE STYLE="text-align: justify">&Eacute;sta licencia
+representa el acuerdo total en lo que concierne al objeto de este
+contrato. Si cualquier provisi&oacute;n de esta licencia se demuestra
+inaplicable, dicha provisi&oacute;n se reformara solo hasta el punto
+necesario para hacerla aplicable. Esta licencia se regir&aacute; por
+la legislaci&oacute;n aplicable en el estado espa&ntilde;ol (excepto
+hasta el punto en que la legislaci&oacute;n adicional, si la hubiera,
+lo disponga de otra manera), excluyendo las provisiones que entren en
+conflicto con la ley. Con respecto a las disputas en las que al menos
+una de las partes sea legalmente residente, o una entidad u
+organizaci&oacute;n documentada o registrada legalmente en Espa&ntilde;a,
+cualquier litigio relacionado con esta licencia estar&aacute; bajo
+jurisdicci&oacute;n de los juzgados locales de Gij&oacute;n
+(Principado de Asturias, Espa&ntilde;a, UE), siendo la parte culpable
+de las costas, incluyendo sin limitaci&oacute;n, costas procesales y
+costes y gastos razonables de abogados y procuradores. La aplicaci&oacute;n
+de la convenci&oacute;n de las naciones unidas para los contratos
+para la venta internacional de bienes esta expresamente excluida.
+Cualquier ley o disposici&oacute;n que establezca que el idioma de un
+contrato debe ser interpretado contra el redactor del mismo no se
+aplicar&aacute; a esta licencia.</BLOCKQUOTE>
+<H2 CLASS="western">9. RESPONSABILIDAD POR RECLAMOS</H2>
+<BLOCKQUOTE STYLE="text-align: justify">Como en el caso del
+desarrollador inicial y los colaboradores, cada parte es responsable
+de los reclamos y da&ntilde;os que pudieran surgir, directa o
+indirectamente, por causa de su utilizaci&oacute;n de derechos bajo
+esta licencia y usted est&aacute; de acuerdo en trabajar junto con el
+desarrollador inicial y los colaboradores para distribuir dicha
+responsabilidad de manera equitativa. Nada de lo manifestado pretende
+o est&aacute; manifestado para constituir admisi&oacute;n de
+responsabilidad de clase alguna.</BLOCKQUOTE>
+<H2 CLASS="western">ADDENDUM A. T&Eacute;RMINOS ADICIONALES
+APLICABLES PARA <STRONG>LIBERTYA</STRONG></H2>
+<BLOCKQUOTE STYLE="text-align: justify"><STRONG>A.1.</STRONG> El
+desarrollador inicial del software original denominado <STRONG>LIBERTYA
+SOFTWARE LIBRE DE GESTI&Oacute;N </STRONG>es Servicios Digitales
+S.A<STRONG>.</STRONG>, con domicilio en Urquiza 661, Rio Gallegos,
+Santa Cruz, Argentina. El desarrollador inicial podr&aacute;, si as&iacute;
+lo considera, transferir los derechos contenidos en esta licencia y
+todos los dem&aacute;s derechos asociados al software original
+denominado <STRONG>LIBERTYA SOFTWARE LIBRE DE GESTI&Oacute;N</STRONG>,
+a otra organizaci&oacute;n sin &aacute;nimo de lucro, que pueda
+cuidar, promocionar o mantener el uso del misma y de su comunidad de
+desarrollo.</BLOCKQUOTE>
+<BLOCKQUOTE STYLE="text-align: justify"><STRONG>A.2.</STRONG>
+<STRONG>LIBERTYA SOFTWARE LIBRE DE GESTI&Oacute;N</STRONG> &reg; es
+una marca registrada del desarrollador inicial, quien ejerce su
+derecho al registro de la misma con el fin de mantener la marca, como
+denominaci&oacute;n del software original denominado <STRONG>LIBERTYA
+<STRONG>SOFTWARE LIBRE DE GESTI&Oacute;N</STRONG></STRONG>,
+exclusivamente bajo los t&eacute;rminos de &eacute;sta licencia
+p&uacute;blica <STRONG>LPLY</STRONG>, imposibilitando as&iacute; la
+utilizaci&oacute;n exclusiva del nombre y la marca por parte de
+terceros con car&aacute;cter privativo, y permitiendo en todo momento
+el uso p&uacute;blico de la misma bajo los t&eacute;rminos exclusivos
+de la <STRONG>LPLY</STRONG> y &uacute;nicamente para su utilizaci&oacute;n
+junto con el software original objeto de la presente licencia <STRONG>LPLY</STRONG>.</BLOCKQUOTE>
+<BLOCKQUOTE STYLE="text-align: justify"><STRONG>A.3.</STRONG> El
+software original denominado <STRONG>LIBERTYA</STRONG> incluye junto
+con c&oacute;digo nuevo, partes de c&oacute;digo, librer&iacute;as,
+modificaciones y extensiones sobre las mismas, cuyos respectivos
+t&eacute;rminos de licencia son respetados por la presente licencia
+<STRONG>LPLY</STRONG>, de los siguientes proyectos de software libre
+que potencian el software original <STRONG>LIBERTYA</STRONG>:</BLOCKQUOTE>
+<TABLE WIDTH=100% BORDER=1 CELLPADDING=4 CELLSPACING=3>
+	<COL WIDTH=128*>
+	<COL WIDTH=128*>
+	<TR VALIGN=TOP>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>openXpertya,
+				soluci&oacute;n empresarial global</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>Open Business
+				Solution.</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>Xpertya, soluci&oacute;n
+				empresarial global.</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>Liquid Look and
+				Feel by Birosoft &reg;.</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>SATPEL, sistema
+				de actualizaci&oacute;n tecnol&oacute;gica de precios en lineal.</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>Librer&iacute;a
+				de Tags JSP, JSPTAGS &reg;.</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>OpenTASSEL.</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>Librer&iacute;a
+				Java &nbsp;PDF &nbsp;iTEXT por Bruno Lowagie y Paulo Soares.</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>Tangrim ERP &amp;
+				CRM business solution.</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>Librer&iacute;as
+				de C&oacute;digo Abierto de Adobe &reg; Acrobat.</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>Compiere &reg;,
+				ERP &amp; CRM business solution.</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>Open ERP
+				solution. miCRM.</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>JBOSS &reg;.</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify"><EM>Compiere Business
+				Intelligence.</EM></BLOCKQUOTE>
+			</UL>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify">Librer&iacute;as
+				JasperReports de JasperSoft</BLOCKQUOTE>
+			</UL>
+		</TD>
+		<TD WIDTH=50%>
+			<UL>
+				<LI><BLOCKQUOTE STYLE="text-align: justify">IconLib.info 
+				</BLOCKQUOTE>
+			</UL>
+		</TD>
+	</TR>
+</TABLE>
+<BLOCKQUOTE STYLE="text-align: justify">Todas las marcas registradas
+aqu&iacute; mencionadas son propiedad de sus respectivos propietarios
+y la presente licencia <STRONG>LPLY</STRONG> no otorga ni quita
+derecho alguno en relaci&oacute;n con las mismas.</BLOCKQUOTE>
+<BLOCKQUOTE STYLE="text-align: justify">A.4. Todas las im&aacute;genes
+obtenidas o provenientes del logotipo original de <STRONG>LIBERTYA, e
+incluidas con el software original, cuando sean separadas del
+software original</STRONG>, quedan bajo la licencia <STRONG>Creative
+Commons Reconocimiento-NoComercial-SinObraDerivada-2.5</STRONG>.
+Usted es libre de copiar, distribuir y comunicar p&uacute;blicamente
+la obra, bajo las condiciones siguientes:</BLOCKQUOTE>
+<OL>
+	<LI><BLOCKQUOTE STYLE="text-align: justify"><STRONG>Reconocimiento</STRONG>.
+	Debe reconocer los cr&eacute;ditos de la obra indicando siempre su
+	origen en cualquier caso de publicaci&oacute;n.</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify"><STRONG>No comercial</STRONG>.
+	No puede utilizar esta obra para fines comerciales, fuera de la
+	propia licencia <STRONG>LPLY</STRONG> o su utilizaci&oacute;n junto
+	con el software original o para promoci&oacute;n del mismo. No se
+	puede utilizar estas im&aacute;genes en obra comercial alguna sin el
+	permiso del desarrollador inicial del software original.</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify"><STRONG>Sin obras
+	derivadas</STRONG>. No se puede alterar, transformar o generar una
+	obra derivada a partir de esta obra.</BLOCKQUOTE>
+</OL>
+<BLOCKQUOTE STYLE="text-align: justify">El logotipo original de
+<STRONG>LIBERTYA</STRONG> est&aacute; registrado junto con la marca
+<STRONG>LIBERTYA</STRONG> &reg; seg&uacute;n los t&eacute;rminos del
+<STRONG>Addendum A.2</STRONG>, y su uso fuera de las condiciones
+anteriormente expuestas est&aacute; expresamente prohibido. Alguna de
+estas condiciones podr&iacute;an no aplicarse si se obtiene el
+permiso del titular de los derechos de autor, el desarrollador
+inicial del software original.</BLOCKQUOTE>
+<BLOCKQUOTE STYLE="text-align: justify">Los derechos derivados de
+usos leg&iacute;timos u otras limitaciones reconocidas por ley no se
+ven afectados por lo anterior.</BLOCKQUOTE>
+<BLOCKQUOTE STYLE="text-align: justify">A.5. Toda la documentaci&oacute;n
+incluida originalmente con el software original, <STRONG>cuando sea
+separadas del software original</STRONG>, queda bajo la licencia
+<STRONG>Creative Commons
+Reconocimiento-NoComercial-SinObraDerivada-2.5</STRONG>. Usted es
+libre de copiar, distribuir y comunicar p&uacute;blicamente la obra,
+bajo las condiciones siguientes:</BLOCKQUOTE>
+<OL>
+	<LI><BLOCKQUOTE STYLE="text-align: justify"><STRONG>Reconocimiento</STRONG>.
+	Debe reconocer los cr&eacute;ditos de la obra indicando siempre su
+	origen en cualquier caso de publicaci&oacute;n.</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify"><STRONG>No comercial</STRONG>.
+	No puede utilizar esta obra para fines comerciales, fuera de la
+	propia licencia <STRONG>LPLY</STRONG> o su utilizaci&oacute;n junto
+	con el software original o para formaci&oacute;n sobre el mismo. No
+	se puede utilizar esta documentaci&oacute;n en obra comercial alguna
+	sin el permiso del autor, sea el desarrollador inicial del software
+	original o un colaborador cualquiera.</BLOCKQUOTE>
+	<LI><BLOCKQUOTE STYLE="text-align: justify"><STRONG>Sin obras
+	derivadas</STRONG>. No se puede alterar, transformar o generar una
+	obra derivada a partir de esta obra.</BLOCKQUOTE>
+</OL>
+<BLOCKQUOTE STYLE="text-align: justify">Alguna de estas condiciones
+podr&iacute;an no aplicarse si se obtiene el permiso del titular de
+los derechos de autor, sea el desarrollador inicial del software
+original o un colaborador cualquiera.</BLOCKQUOTE>
+<BLOCKQUOTE STYLE="text-align: justify"><STRONG>Los derechos
+derivados de usos leg&iacute;timos u otras limitaciones reconocidas
+por ley no se ven afectados por lo anterior. Adicionalmente podr&aacute;
+existir documentaci&oacute;n externa, no incluida con el software
+original, bajo cualquier otro tipo de licencia extendida por el
+correspondiente autor.</STRONG></BLOCKQUOTE>
+<BLOCKQUOTE STYLE="text-align: justify">A.6. Todo aquel c&oacute;digo
+fuente del software original, no derivado, extendido ni modificado en
+modo alguno de ning&uacute;n otro proyecto de software libre
+anteriormente mencionado en el <STRONG>Addendum A.2.</STRONG>, ni
+mencionado en el <STRONG>Addendum A.4.</STRONG> es declarado por el
+desarrollador inicial directamente relicenciable bajo la licencia <STRONG>GNU
+LGPL (GNU Lesser General Public License)</STRONG>, y por extensi&oacute;n
+de la propia licencia <STRONG>LPLY</STRONG> a cualquier otra licencia
+reconocida por la <STRONG>OSI (<EM>Open Source Initiative</EM>)</STRONG>
+que no vulnere ninguna de las condiciones de la presente licencia
+<STRONG>LPLY</STRONG>, PARA EL C&Oacute;DIGO FUENTE OBJETO DE
+RELICENCIAMIENTO.</BLOCKQUOTE>
+<HR>
+<P ALIGN=RIGHT><A HREF="#inicio">Volver arriba</A></P>
+</BODY>
+</html>
+
+
